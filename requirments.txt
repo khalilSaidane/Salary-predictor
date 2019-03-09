@@ -1,0 +1,6 @@
+numpy
+sklearn
+requests
+Flask
+gunicorn
+uwsgi
